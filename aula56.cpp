@@ -3,7 +3,7 @@
 
 using namespace std;
 
-int soma(double n1, double n2){ 
+auto soma(double n1, double n2) -> double{ 
 	return n1+n2; 
 }
 
@@ -13,7 +13,7 @@ string canal(){
 
 void somador(){
 	static auto i{0}; // static -> transforma a variavel em estática
-					  // Em outras palavras, instancia o i na memória e seu valor fica salvo
+					  // Em outras palavras, armazena o valor de i
 	i++;
 	cout << i << endl;
 }
@@ -24,7 +24,7 @@ int main() {
 	register int cont;
 	
 	// Variável de tipagem dinâmica
-	auto num=10;
+	auto num = 10; 
 	auto nome = "Lucas";
 	auto valor = 10.5;
 	
@@ -34,19 +34,14 @@ int main() {
 		
 	cout << res << endl;
 	
-	for(auto it=v.begin(); it !=v.end();it++){
+	for(auto it = v.begin(); it != v.end(); it++){
 		cout << *it << endl;
 	}
-		
-	somador();		
-	somador();		
-	somador();		
-	somador();		
-	somador();		
-	somador();		
-	somador();		
-	somador();		
-	somador();		
+				//Sem static //Com static
+	somador(); 	// 1 		 // 1
+	somador();	// 1 		 // 2
+	somador();	// 1 		 // 3
+	somador();	// 1 		 // 4
 
 	return 0;	
 }
