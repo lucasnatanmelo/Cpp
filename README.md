@@ -1,6 +1,6 @@
 **<strong>C++ - CFB**
 ----
-  **Anotações pessoais referentes a linguagem de programação C++** <br/>
+  **Anotações e utilidades pessoais referentes a linguagem de programação C++** <br/>
   *CFB Cursos*
 
 **DESCRIÇÃO - AULAS:**
