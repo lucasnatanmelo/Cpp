@@ -1,4 +1,4 @@
-**<strong>C++ - CFB**
+**<strong>C++**
 ----
   **Anotações e utilidades pessoais referentes a linguagem de programação C++** <br/>
   *CFB Cursos*
