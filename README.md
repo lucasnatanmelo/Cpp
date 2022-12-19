@@ -61,6 +61,13 @@
 *  **#54 - Tratamento de Erros com try catch**
 *  **#55 - Inicialização uniforme - C++11 (C++ moderno)**
 *  **#56 - Classes de armazenamento (auto, register, static) - C++11 (C++ moderno)**
+*  **#57 - Classes de armazenamento (extern) - C++11 (C++ moderno)**
+*  **#58 - FOR com base em intervalo / for-range-declaration - C++11 (C++ moderno)**
+*  **#59 - Funções Lambda - C++11 (C++ moderno)**
+*  **#60 - Pair - Dados em Pares**
+*  **#61 - Map - Container de Associação Chave x Valor**
+*  **#62 - Map - Smart Pointer / Ponteiro Inteligente - C++11 (C++ moderno)**
+
 
 
 
