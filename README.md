@@ -67,6 +67,11 @@
 *  **#60 - Pair - Dados em Pares**
 *  **#61 - Map - Container de Associação Chave x Valor**
 *  **#62 - Map - Smart Pointer / Ponteiro Inteligente - C++11 (C++ moderno)**
+*  **#63 - Algorítimo FOR_EACH - C++11 (C++ moderno)**
+*  **#64 - POO, Classes em C++ Moderno - P6**
+*  **#65 - POO, Encapsulamento - P7**
+*  **#66 - POO, Polimorfismo (sobrecarga de métodos) - P8**
+*  **#67 - POO, Herança, Virtual, Override - P9**
 
 
 

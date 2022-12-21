@@ -12,6 +12,9 @@ class Carro{
 		}
 };
 
+// os smart pointers deletam o ponteiro automaticamente 
+// após o término da utilização
+
 int main() {
 	
 	/*
@@ -25,7 +28,7 @@ int main() {
 	pnum = &num;
 	
 	cout << "Valor de num pelo ponteiro: " << *pnum << endl;
-	cout << "Valor de num pelo ponteiro - memoria: " << pnum << endl;
+	cout << "Valor de num na memória pelo ponteiro : " << pnum << endl;
 	
 	delete pnum;
 	
