@@ -72,6 +72,12 @@
 *  **#65 - POO, Encapsulamento - P7**
 *  **#66 - POO, Polimorfismo (sobrecarga de métodos) - P8**
 *  **#67 - POO, Herança, Virtual, Override - P9**
+*  **#68 - POO, Protected x Private x Public - P10**
+*  **#69 - Algoritmo FIND**
+*  **#70 - Acentuação / setlocale**
+*  **#71 - Download, Instalação e configuração do codeBlocks**
+*  **#72 - Biblioteca iostream**
+*  **#73 - Biblioteca cstdlib - P1**
 
 
 

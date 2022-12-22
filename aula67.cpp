@@ -28,10 +28,10 @@ class Veiculo{
 		}
 		// virtual -> permite sobrescrever o método por outra classe que herda
 		virtual void imp(){
-			cout << "Nome......: " << nome << endl;
-			cout << "Cor.......: " << cor << endl;
-			cout << "Rodas.....: " << rodas << endl;
-			cout << "VelMax....: " << velMax << endl;
+			cout << "Nome......: " << this->nome << endl;
+			cout << "Cor.......: " << this->cor << endl;
+			cout << "Rodas.....: " << this->rodas << endl;
+			cout << "VelMax....: " << this->velMax << endl;
 		}
 };
 // Carro extends Veiculo
@@ -72,19 +72,15 @@ class Militar:public Veiculo{
 		void imp() override{
 			cout << "Nome......: " << getNome() << endl;
 			cout << "Cor.......: " << getCor() << endl;
-			cout << "Rodas.....: " << rodas << endl;
-			cout << "VelMax....: " << velMax << endl;
+			cout << "Rodas.....: " << this->rodas << endl;
+			cout << "VelMax....: " << this->velMax << endl;
 			
-			!!this->armamento 
-			? 
-			(
-				cout << "Armamento.:" << armamento << endl <<
-				"Monicao.:" << monicao << endl;
-		 	)
-			:
-			(
-				cout << "Armamento.:" << armamento << endl;
-			);
+			if(!!this->monicao){
+				cout << "Armamento.:" << this->armamento << endl;
+				cout << "Monicao...:" << this->monicao << endl;
+			} else{
+				cout << "Armamento.:" << this->armamento << endl;
+			}
 		}
 };
 
@@ -100,12 +96,12 @@ int main() {
 	
 	cout << "\n\n";
 	
-	Militar v3(false, 200);
+	Militar v3{false, 200};
 	v3.imp();
 	
 	cout << "\n\n";
 	
-	Militar v4(true, 400);
+	Militar v4{true, 400};
 	v4.imp();
 	return 0;	
 }
