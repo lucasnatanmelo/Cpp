@@ -5,12 +5,14 @@
 
 using namespace std;
 
+// Funçoes de conversao, de geraçao de numeros aleatorios e gerenciamento dinamico de memoria
+
 int main(){
 	
 	double num;
 	char numero[80];
 	
-	// Para transformar de um tipo para o outro
+	// Funçoes de conversao
 	/*
 		atof -> char to float
 		atoi -> char to int
@@ -51,7 +53,7 @@ int main(){
 	int *vetor;
 	
 //	vetor=(int*)calloc(tam, sizeof(int));
-	vetor=(int*)malloc(sizeof(int));
+	vetor=(int*)malloc(sizeof(int)); //retorna o ponteiro para o primeiro elemento
 	
 	srand(time(NULL));
 	

@@ -78,6 +78,13 @@
 *  **#71 - Download, Instalação e configuração do codeBlocks**
 *  **#72 - Biblioteca iostream**
 *  **#73 - Biblioteca cstdlib - P1**
+*  **#74 - Biblioteca cstdlib - P2**
+*  **#75 - Biblioteca cstdlib - P3**
+*  **#76 - Biblioteca typeinfo**
+*  **#77 - Biblioteca functional**
+*  **#78 - Biblioteca UTILITY - Função SWAP, função MAKE_PAIR e o tipo PAIR - Curso de C++**
+*  **#79 - Manipulando DATA, HORA e controle de tempo em C++ - Bibliotecas ctime e time.h - Curso de C++**
+*  **#80 - DATA, HORA e controle de tempo em C++ moderno - Biblioteca chrono - Curso de C++**
 
 
 
