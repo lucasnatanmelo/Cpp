@@ -85,6 +85,8 @@
 *  **#78 - Biblioteca UTILITY - Função SWAP, função MAKE_PAIR e o tipo PAIR - Curso de C++**
 *  **#79 - Manipulando DATA, HORA e controle de tempo em C++ - Bibliotecas ctime e time.h - Curso de C++**
 *  **#80 - DATA, HORA e controle de tempo em C++ moderno - Biblioteca chrono - Curso de C++**
+*  **#81 - Como verificar o tipo de um caractere em c++, biblioteca cctype - Curso de C++**
+*  **#82 - Manipulando strings, funções para strings, biblioteca cstring P1 - Curso de C++**
 
 
 
