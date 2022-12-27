@@ -87,6 +87,11 @@
 *  **#80 - DATA, HORA e controle de tempo em C++ moderno - Biblioteca chrono - Curso de C++**
 *  **#81 - Como verificar o tipo de um caractere em c++, biblioteca cctype - Curso de C++**
 *  **#82 - Manipulando strings, funções para strings, biblioteca cstring P1 - Curso de C++**
+*  **#83 - Funções para manipular strings, biblioteca cstring P2 - Curso de C++**
+*  **#84 - Biblioteca string P1 - Curso de C++**
+*  **#85 - Biblioteca string P2 - Curso de C++**
+*  **#86 - Biblioteca string P3 - Curso de C++**
+*  **#87 - Biblioteca array - Curso de C++**
 
 
 
