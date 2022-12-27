@@ -21,7 +21,7 @@
 *  **#14 - Comando de laço While**
 *  **#15 - Comando break**
 *  **#16 - Comando de loop do While**
-*  **#17 - Comando de loope FOR**
+*  **#17 - Comando de loop FOR**
 *  **#18 - Array/Vetor**
 *  **#19 - Array bidimensional / Matriz**
 *  **#20 - Jogo da Forca**
@@ -91,7 +91,14 @@
 *  **#84 - Biblioteca string P1 - Curso de C++**
 *  **#85 - Biblioteca string P2 - Curso de C++**
 *  **#86 - Biblioteca string P3 - Curso de C++**
-*  **#87 - Biblioteca array - Curso de C++**
+*  **#87 - Biblioteca Array - Curso de C++**
+*  **#88 - Biblioteca Vector - Curso de C++**
+*  **#89 - Biblioteca List - Curso de C++**
+*  **#90 - Biblioteca List - Curso de C++**
+*  **#91 - Biblioteca Map - Curso de C++**
+*  **#92 - Biblioteca Stack (Pilha) - Curso de C++**
+*  **#93 - Biblioteca Queue (Fila) - Curso de C++**
+*  **#94 - Biblioteca Deque (Fila Dupla) - Curso de C++**
 
 
 
