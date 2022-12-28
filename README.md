@@ -99,6 +99,13 @@
 *  **#92 - Biblioteca Stack (Pilha) - Curso de C++**
 *  **#93 - Biblioteca Queue (Fila) - Curso de C++**
 *  **#94 - Biblioteca Deque (Fila Dupla) - Curso de C++**
+*  **#95 - Biblioteca Algorithm P1 - Curso de C++**
+*  **#96 - Biblioteca iterator - Curso de C++**
+*  **#97 - Biblioteca Algorithm P2 - Curso de C++**
+*  **#98 - Biblioteca Algorithm P3 - Curso de C++**
+*  **#99 - Biblioteca cmath - Curso de C++**
+*  **#100 - Biblioteca fstream - Curso de C++**
+*  **#101 - Biblioteca iomanip - Curso de C++**
 
 
 
