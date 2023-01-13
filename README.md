@@ -255,7 +255,30 @@
 *  #101 - Biblioteca iomanip - Curso de C++
     * #include \<bits/stdc++.h>
 
-
+*  POO Avançado - Prof. Joao Paulo - C++
+    * Aula 1
+        * Revisão rápida de conceitos
+    * Aula 2
+        * Classes - Avançado
+            * Separando em arquivos de declaração e definições de métodos
+    * Aula 3
+        * Classes utilizando Datas
+        * Métodos destrutores
+    * Aula 4
+        * Sobrecarga de operadores
+    * Aula 5
+        * Sobrecarga de operadores
+        * friend 
+    * Aula 6
+        * Classes - Avançado
+    * Aula 7
+        * Classes - Avançado
+            * Acesso e criação de classes a partir de instanciação ou ponteiros
+    * Aula 8
+    * Aula 8
+        * Criação da classe de pilha - Stack
+        
+        
 
 
 
