@@ -72,7 +72,7 @@
     * push_front(), push_back(), begin(), advance(), sort(), reverse(), size()
 *  #32 - Lista - Parte 2
     * #include \<list>
-    * *iterator
+    * iterator
     * it_erase, merge()
 *  #33 - Struct - Parte 1
     * Definição - struct
@@ -87,7 +87,7 @@
 *  #37 - Ponteiros - Parte 2
     * Ponteiros utilizando arrays
     * \*(p++)
-*  #38 - Ponteiros - Parte 3**
+*  #38 - Ponteiros - Parte 3
     * Funções recebendo ponteiros como argumento
 *  #39 - Alocação dinâmica de memória
     * char*, malloc, gets
@@ -97,7 +97,7 @@
     * #include \<vector>
     * push_back(), insert(), begin(), end(), empty(),pop_back(), at(), front(), back(), size()
 *  #43 - System
-    * *#include \<stdlib.h>
+    * #include \<stdlib.h>
     * system("dir"), system("cls"), system("color 06")
 *  #44 - POO, Classes, public, private, métodos - P1
     * Definição - Classes
@@ -115,7 +115,7 @@
 *  #48 - POO, Classes, Herança Múltipla- P5
 *  #49 - Alternado tema do Code::Blocks
 *  #50 - Operações com arquivos (ofstream) - Parte 1
-    * *#include \<fstream>\
+    * #include \<fstream>\
     * ofstream, open(), close()
 *  #51 - Operações com arquivos (ifstream) - Parte 2
     * ifstream, is_open(), getline(), close()
@@ -135,7 +135,7 @@
 *  #57 - Classes de armazenamento (extern) - C++11 (C++ moderno)
 *  #58 - FOR com base em intervalo / for-range-declaration - C++11 (C++ moderno)
     * for(auto i:x){cout << i << endl;}
-    * *for(auto it = v.begin(); it < v.end(); it++){cout << *it << endl;}
+    * for(auto it = v.begin(); it < v.end(); it++){cout << *it << endl;}
 *  #59 - Funções Lambda - C++11 (C++ moderno)
     * Definição de funções lambda
     * \[ ]( ){ }
@@ -201,16 +201,16 @@
         * Biblioteca para operações matemáticas
 *  #80 - DATA, HORA e controle de tempo em C++ moderno - Biblioteca chrono - Curso de C++
     * #include \<chrono>
-        * Outra biblioteca para pegar datas, horas, segundos, etc
+    * Outra biblioteca para pegar datas, horas, segundos, etc
 *  #81 - Como verificar o tipo de um caractere em c++, biblioteca cctype - Curso de C++
     * #include \<cctype>
-        * Biblioteca para manipular caracteres
+    * Biblioteca para manipular caracteres
 *  #82 - Manipulando strings, funções para strings, biblioteca cstring P1 - Curso de C++
     * #include \<cstring>
-            * Biblioteca para manipular caracteres
+    * Biblioteca para manipular caracteres
 *  #83 - Funções para manipular strings, biblioteca cstring P2 - Curso de C++
     * #include \<cstring>
-            * Biblioteca para manipular caracteres
+    * Biblioteca para manipular caracteres
 *  #84 - Biblioteca string P1 - Curso de C++
     * #include \<string>
     * Biblioteca que implementa classes para manipulação de caracteres
