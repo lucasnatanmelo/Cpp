@@ -10,9 +10,7 @@ class Pilha {
 		T *pilha;
 	public:
 		Pilha(int = 10);
-		~Pilha(){
-			delete[] pilha;
-		}
+		~Pilha(){ delete[] pilha;}
 		
 		bool push(T&);
 		bool pop(T&);
@@ -31,7 +29,6 @@ Pilha<T>::Pilha(int size){
 	pilha = new T[this->tamanho];
 }
 
-
 template <typename T>
 bool Pilha<T>::push(T &valor){
 	if(this->is_full()){
@@ -42,6 +39,7 @@ bool Pilha<T>::push(T &valor){
 		return true;
 	}
 }
+
 template <typename T>
 bool Pilha<T>::pop(T &valor){
 	if(this->is_empty()){

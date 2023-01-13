@@ -37,7 +37,7 @@ int main(){
 	// Para pegar os valores das variáveis de ambiente
 	p = getenv("PATH");
 	
-	cout << p << endl;
+	cout << "FROM PATH " << p << endl;
 	
 	const char* user = "Lucas Natan";
 	

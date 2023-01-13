@@ -21,9 +21,9 @@ int main() {
 	Revisao de ponteiros --------------------------------------------
 	*/
 	
-	int *pnum;
 	int num;
-	
+	int *pnum;
+		
 	num=10;
 	pnum = &num;
 	

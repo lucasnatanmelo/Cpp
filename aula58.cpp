@@ -33,6 +33,11 @@ int main() {
 		cout << nome[i] << endl;
 	}
 	
+	for(auto it = v.begin(); it < v.end(); it++){
+		cout << "Aqui: "<<*it << endl;
+	}
+	
+	
 	return 0;	
 }
 

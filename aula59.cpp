@@ -11,7 +11,7 @@ int main() {
 	// [](){}
 	// [] -> Captura as variáveis disponíveis no escopo
 	// () -> Recebe variáveis por parâmetro de função
-	// Retorno
+	// {} -> Retorno
 	
 	// auto soma = [=]() -> Captura TODAS as variáveis do escopo	
 	auto soma = [x1, x2, x3,x4]() -> int{
