@@ -273,7 +273,7 @@
         * Classes - Avançado
     * Aula 7 - Polimorfismo
         * Classes - Avançado
-            * Acesso e criação de classes a partir de instanciação ou ponteiros
+        * Acesso e criação de classes a partir de instanciação ou ponteiros
     * Aula 8 -Tratamento de exceções
     * Aula 9 - Templates
         * Criação da classe de pilha com templates - Stack
