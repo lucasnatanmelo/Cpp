@@ -256,27 +256,27 @@
     * #include \<bits/stdc++.h>
 
 *  POO Avançado - Prof. Joao Paulo - C++
-    * Aula 1
+    * Aula 01 - Introdução ao C++
         * Revisão rápida de conceitos
-    * Aula 2
+    * Aula 02 - Classes - Parte 1
         * Classes - Avançado
             * Separando em arquivos de declaração e definições de métodos
-    * Aula 3
+    * Aula 02 - Classes - Parte 2
         * Classes utilizando Datas
         * Métodos destrutores
-    * Aula 4
+    * Aula 4 - Sobrecarga de Operadores - Parte 1
         * Sobrecarga de operadores
-    * Aula 5
+    * Aula 5 - Sobrecarga de Operadores - Parte 2
         * Sobrecarga de operadores
         * friend 
-    * Aula 6
+    * Aula 6 - Herança
         * Classes - Avançado
-    * Aula 7
+    * Aula 7 - Polimorfismo
         * Classes - Avançado
             * Acesso e criação de classes a partir de instanciação ou ponteiros
-    * Aula 8
-    * Aula 8
-        * Criação da classe de pilha - Stack
+    * Aula 8 -Tratamento de exceções
+    * Aula 9 - Templates
+        * Criação da classe de pilha com templates - Stack
         
         
 
